@@ -33,3 +33,5 @@ python grades.py
 ## 개발 환경
 - Python 3.x
 - Git / GitHub
+
+internet
